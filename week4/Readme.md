@@ -1,4 +1,4 @@
-# HW3: Basic Numpy operation
+# Week4: Basic Numpy operation
 
 ## Q1: feature normalization (mean-std norm. and min-max norm.)
 
