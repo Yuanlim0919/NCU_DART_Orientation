@@ -4,7 +4,7 @@
 
 ## Q2: basic matrix operation
 - Q2.1
-    - a:$\begin{bmatrix}0 & 0.5 & -0.5\\ 1 & -1 & 1\\ -0.5 & 0.75 & -0.25\end{bmatrix}$
+    - a:$\begin{bmatrix}0 & 0.5 & -0.5\\1 & -1 & 1\\-0.5 & 0.75 & -0.25\end{bmatrix}$
     - b:$\begin{bmatrix}0.349 & -0.143 & -0.127\\ 0.238 & -0.143 & 0.095\\ -0.143 & 0.286 & 0.143\end{bmatrix}$
     - c:$\begin{bmatrix}4 & -8 & -2\\ 16 & 4 & -10\\ -18 & -10 & -4\end{bmatrix}$
 - Q2.2
